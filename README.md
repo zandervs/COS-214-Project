@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/52607ae3-b469-4f8f-9ca0-c36e3185037d)">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/52607ae3-b469-4f8f-9ca0-c36e3185037d">
 </p>
 
 # 🌆 City Builder 🏙️

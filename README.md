@@ -6,7 +6,8 @@
   <img height="200" src="https://github.com/user-attachments/assets/52607ae3-b469-4f8f-9ca0-c36e3185037d">
 </p>
 
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+![Static Badge](https://img.shields.io/badge/Project_Status-Designing_System-blue)
+
 This project is part of the COS 214 course and aims to develop a dynamic simulation of urban growth, resource management, and citizen satisfaction using C++. 🚧
 
 ## 📝 Project Overview

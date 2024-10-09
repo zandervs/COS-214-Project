@@ -1,4 +1,7 @@
-![building](https://github.com/user-attachments/assets/52607ae3-b469-4f8f-9ca0-c36e3185037d)
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/52607ae3-b469-4f8f-9ca0-c36e3185037d)">
+</p>
+
 # 🌆 City Builder 🏙️
 This project is part of the COS 214 course and aims to develop a dynamic simulation of urban growth, resource management, and citizen satisfaction using C++. 🚧
 
